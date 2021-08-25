@@ -2,8 +2,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "start": "next start",
-    "build": "CI=false && react-scripts build"
+    "build": "CI=false && next build",
+    "start": "next start"
 
   },
   "dependencies": {
