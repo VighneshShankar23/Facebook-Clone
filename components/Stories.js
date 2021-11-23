@@ -3,27 +3,27 @@ import StoryCard from "./StoryCard";
 
 const stories = [
   {
-    name: "Tesla",
+    name: "Rajesh",
     src: "https://links.papareact.com/4zn",
     profile: "https://links.papareact.com/kxk",
   },
   {
-    name: "Amazon",
+    name: "Striver",
     src: "https://links.papareact.com/k2j",
     profile: "https://links.papareact.com/f0p",
   },
   {
-    name: "Facebook ",
+    name: "Kaju ",
     src: "https://links.papareact.com/xql",
     profile: "https://links.papareact.com/snf",
   },
   {
-    name: "Microsoft",
+    name: "Raju",
     src: "https://links.papareact.com/4u4",
     profile: "https://links.papareact.com/zvy",
   },
   {
-    name: "Harry Potter",
+    name: "Harry Anuj",
     profile: "https://links.papareact.com/d0c",
     src: "https://links.papareact.com/d0c",
   },
